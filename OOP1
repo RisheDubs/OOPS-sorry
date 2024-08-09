@@ -1,0 +1,43 @@
+# Introduction
+
+Class and Object DEF
+--------------------
+
+An class is an template of an object
+An object is an instance of a class
+
+car class
+----------------- 
+| engine type   |
+| price of car  |
+| n.o of seats  |
+-----------------     
+        |              |
+        ^              ^
+-----------------  ----------------- 
+| diesel        |  | petrol        |  }- objects of class car
+| 1Lakhs        |  | 5Lakhs        |
+| 4 seater      |  | 8 seater      |
+-----------------  ----------------- 
+
+Class -> is a logical construct
+Object -> is physical reality, that occupies space in memory
+
+Objects has 3 essential properties:
+-> State of the object : means its value from the datatype
+-> Identity of the object : is whether one object is different from other
+-> Behaviour of the object : effect of datatype operations
+
+Dot Operator
+------------
+Use '.'[Dot operator] to call instance variables[diesel,2l,etc...]
+
+Dynamic Allocation
+------------------
+
+Allocates the memory at run time, and returns a reference to it.
+
+Constructor
+-----------
+
+Basically defines what happens when your object will be created.
