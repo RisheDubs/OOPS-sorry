@@ -41,3 +41,4 @@ Constructor
 -----------
 
 Basically defines what happens when your object will be created.
+Costructor is a special fucntion, thats runs when you create an object and it allocates some variables.
